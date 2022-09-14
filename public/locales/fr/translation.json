@@ -1,0 +1,54 @@
+{
+    "navbar.1": "Comment-ça marche",
+    "navbar.2": "Connexion",
+    "navbar.3":"Demande de retrait",
+    "navbar.4":"Connecter le portefeuille",
+    "register": "S'inscrire",
+    "Pioneer": "Pionnier",
+    "daily": "Dû Quotien",
+    "advanced": "Avancé",
+    "hero": "Héro",
+    "loginAccount": "Connectez-vous à votre compte",
+    "UsernameEmail": "Nom d'utilisateur/E-mail",
+    "Password": "Mot de passe",
+    "Forget": "Mot de passe oublié?",
+    "DontHaveAccount": "Vous n'avez pas de compte",
+    "RegisterHere": "S'inscrire maintenant",
+    "createAccount": "Créer un compte",
+    "fullName": "Nom et prénom *",
+    "email": "Adresse e-mail *",
+    "confirmPassword": "Confirmez le mot de passe",
+    "signUp": "S'inscrire",
+    "loginHere": "Connectez-vous ici",
+    "Alreadyhaveaccount": "Déjà enregistré?",
+    "depositNow": "Déposez maintenant",
+    "deposited": "Déposé",
+    "Balance": "Solde",
+    "increased": "Augmentation",
+ 
+
+
+    "EnterEmail": "Entrez l'e-mail",
+    "Confirm" : "Confirmer",
+    "NewPassword": "nouveau mot de passe",
+    "Submit":"Soumettre",
+    "withdrawRequest":"Demande de retrait",
+    "Request":"Demande",
+    "Amount":"Quantità",
+    "Deposit":"Depositare",
+    "SelectCurrency":"Sélectionnez la devise",
+
+
+
+    "Typefullname": "Tapez le nom complet",
+    "Typeyouremailaddress": "Saisissez votre adresse e-mail",
+    "TypePassword": "Tapez votre mot de passe",
+    "TypeConfirmPassword":"Confirmer le mot de passe",
+    "TypeNewPassword":"Tapez le nouveau mot de passe",
+    "WhoWeAre":"Qui nous sommes",
+    "Regulation":"Régulation",
+    "Introduction":"Introduction",
+    "AllRightsReserved":"Tous les droits sont réservés"
+
+
+}

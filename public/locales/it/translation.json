@@ -1,0 +1,54 @@
+{
+    "navbar.1": "Come funziona",
+    "navbar.2": "Accesso",
+    "navbar.3":"Richiesta di prelievo",
+    "navbar.4":"Collega il portafoglio",
+    "register": "Registrati",
+    "Pioneer": "Pioniere",
+    "daily": "GIORNALIERO",
+    "advanced": "AVANZATO",
+    "hero": "eroe",
+    "loginAccount": "Accedi al tuo account",
+    "UsernameEmail": "Nome utente/e-mail",
+    "Password": "Password",
+    "Forget": "Dimenticare la password?",
+    "DontHaveAccount": "Non hai un account",
+    "RegisterHere": "Iscriviti ora",
+    "createAccount": "Creare un account",
+    "fullName": "Nome e cognome *",
+    "email": "Indirizzo e-mail *",
+    "confirmPassword": "Conferma password",
+    "signUp": "Iscriviti",
+    "loginHere": "Accedi qui",
+    "Alreadyhaveaccount": "Già registrato?",
+    "depositNow": "Deposita ora",
+    "deposited": "depositato",
+    "Balance": "BILANCIO",
+    "increased": "GUADAGNATO",
+
+    "EnterEmail": "Inserisci l'email",
+    "Confirm" : "Confermare",
+    "NewPassword": "nuova password",
+    "Submit":"Invia",
+    "withdrawRequest":"Richiesta di prelievo",
+    "Request":"Richiesta",
+    "Amount":"Quantità",
+    "Deposit":"Depositare",
+    "SelectCurrency":"Seleziona Valuta",
+
+
+
+
+
+    "Typefullname": "Digita il nome completo",
+    "Typeyouremailaddress": "Digita il tuo indirizzo email",
+    "TypePassword": "Inserisci password",
+    "TypeConfirmPassword":"Digita Conferma password",
+    "TypeNewPassword":"Digita Nuova password",
+    "WhoWeAre":"Chi siamo",
+    "Regulation":"Regolamento",
+    "Introduction":"introduzione",
+    "AllRightsReserved":"Tutti i diritti riservati"
+
+
+}

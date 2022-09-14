@@ -1,0 +1,20 @@
+.box-shadow {
+    box-shadow: 0px 4px 10px rgba(200, 200, 200, 0.25);
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    background-color: rgb(45, 50, 82);
+}
+
+.bgimg2 {
+    background-image: url("../../../Asset/Mask-group.png");
+
+    background-size: cover;
+
+    padding-top: 80px;
+    /* padding-bottom: 80px; */
+    height: 70vh;
+    /* margin-top: 140px; */
+}

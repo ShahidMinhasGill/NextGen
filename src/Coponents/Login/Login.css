@@ -1,0 +1,138 @@
+.login-main-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    /* dark 3 */
+
+    /* color: #424e9b; */
+}
+
+input[type="text"] {
+    background-color: transparent;
+    padding: 17px;
+}
+
+input[type="password"] {
+    background-color: transparent;
+    padding: 17px;
+}
+
+.form-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+ type[type = "text"], .input-color {
+    /* background: #F3F3F3; */
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    /* gray */
+
+    color: #C0C4C5;
+}
+
+.forget {
+    /* margin-left: 19rem; */
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    cursor: pointer;
+
+    color: #4EC04F;
+}
+
+.shadow {
+    box-shadow: 0px 4px 10px rgba(200, 200, 200, 0.25);
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+}
+
+.btn-color {
+    background: #4EC04F;
+    border-radius: 10px;
+}
+
+.btn-color button {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+.register {
+    font-family: 'Montserrat', sans-serif;
+    color: #4EC04F;
+    /* text-decoration: none; */
+}
+
+a:link {
+    /* text-decoration: none; */
+}
+
+
+a:visited {
+    /* text-decoration: none; */
+}
+
+
+a:hover {
+    color: #4EC04F;
+}
+
+
+a:active {
+    text-decoration: none;
+}
+
+.form-span {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+
+    /* dark 1 */
+
+    /* color: #121212; */
+}
+
+@media (max-width: 480px) {
+    .forget {
+        /* margin-left: 9rem; */
+    }
+
+    .login-main-heading {
+        font-size: 25px;
+
+    }
+}

@@ -1,0 +1,278 @@
+.bgimg {
+    background-image: url("../../Asset/Mask-group.png");
+    /* background-color: #000000; */
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Re
+    /* width: 1440px; */
+    /* height: 500px; */
+    /* left: 0px; */
+    border-top: 1px solid #4EC04F;
+    border-bottom: 1px solid #4EC04F;
+    /* border: 1px solid rgb(255, 255, 255); */
+    /* top: 160px; */
+    /* width: 100vw; */
+    padding-top: 80px;
+    /* padding-bottom: 80px; */
+    height: 130vh;
+    /* margin-top: 140px; */
+}
+
+.bgimg1 {
+    background-image: url("../../Asset/Mask-group.png");
+    /* background-color: #000000; */
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Re
+    /* width: 1440px; */
+    /* height: 500px; */
+    /* left: 0px; */
+    border-top: 1px solid #4EC04F;
+    border-bottom: 1px solid #4EC04F;
+    /* border: 1px solid rgb(255, 255, 255); */
+    /* top: 160px; */
+    /* width: 100vw; */
+    padding-top: 80px;
+    /* padding-bottom: 80px; */
+    height: 100vh;
+    /* margin-top: 140px; */
+}
+
+.listborder1 {
+    border: 3px solid #D9833C;
+    border-radius: 20px;
+
+    /* background-color: white; */
+    height: 8em;
+
+
+}
+
+.next-gem-logo {
+    height: 3rem;
+    /* margin-top: 15px; */
+}
+
+.heading {
+    /* margin-top: 18px; */
+    /* margin-left: 15px; */
+    padding: 22px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 44px;
+    text-transform: uppercase;
+
+}
+
+.span1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    /* line-height: 22px; */
+    /* margin-top: 10px; */
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #8A8EA8;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: hsl(0, 0%, 0%);
+}
+
+
+.link-landing-page {
+    text-decoration: none;
+    color: hsl(0, 0%, 0%);
+}
+
+.link-landing-page:hover {
+    text-decoration: none;
+    color: hsl(0, 0%, 0%);
+}
+
+
+.span2 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    /* dark 1 */
+
+    /* color: #121212; */
+}
+
+.listborder2 {
+    border: 3px solid #D9833C;
+    border-radius: 20px;
+    margin-top: 2rem;
+    /* background-color: white; */
+    height: 8em;
+
+
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="text"],
+textarea {
+
+    /* background: rgba(41, 44, 56, 0.16); */
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 15px;
+}
+
+input[type="password"],
+textarea {
+
+    /* background: rgba(41, 44, 56, 0.16); */
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 15px;
+}
+
+::-webkit-input-placeholder {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.media-query1 {
+    padding-left: 24rem;
+}
+
+@media(min-width:280px) and (max-width: 912px) {
+    .listborder1 {
+        border-radius: 12px;
+        height: auto;
+    }
+
+    .media-query1 {
+        padding-left: 0px;
+    }
+
+    .next-gem-logo {
+        /* heig ht: 2rem; */
+        /* margin-top: 8px; */
+        /* border: 2px solid red; */
+    }
+
+    .heading {
+        margin-top: 7px;
+        margin-left: 5px;
+        font-size: 15px;
+    }
+
+    .span2 {
+        font-size: 11px;
+    }
+
+    .list-border2 {
+        border-radius: 12px;
+        height: 4em;
+    }
+
+    .bgimg {
+        background-image: url("../../Asset/Mask-group.png");
+        /* background-color: #000000; */
+        /* background-repeat: no-repeat; */
+        background-position: center;
+        /* Center the image */
+        background-repeat: no-repeat;
+        /* Do not repeat the image */
+        background-size: cover;
+        /* Re
+        /* width: 1440px; */
+        /* height: 500px; */
+        /* left: 0px; */
+        border-top: 1px solid #4EC04F;
+        border-bottom: 1px solid #4EC04F;
+        /* border: 1px solid rgb(255, 255, 255); */
+        /* top: 160px; */
+        /* width: 100vw; */
+        padding-top: 80px;
+        /* padding-bottom: 80px; */
+        height: auto;
+        /* margin-top: 140px; */
+    }
+
+    .bgimg1 {
+        background-image: url("../../Asset/Mask-group.png");
+        /* background-color: #000000; */
+        /* background-repeat: no-repeat; */
+        background-position: center;
+        /* Center the image */
+        background-repeat: no-repeat;
+        /* Do not repeat the image */
+        background-size: cover;
+        /* Re
+        /* width: 1440px; */
+        /* height: 500px; */
+        /* left: 0px; */
+        border-top: 1px solid #4EC04F;
+        border-bottom: 1px solid #4EC04F;
+        /* border: 1px solid rgb(255, 255, 255); */
+        /* top: 160px; */
+        /* width: 100vw; */
+        padding-top: 80px;
+        /* padding-bottom: 80px; */
+        height: auto;
+        /* margin-top: 140px; */
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1080px) {
+    .media-query1 {
+        padding-left: 18rem;
+    }
+
+    .heading {
+        padding-left: 3rem;
+    }
+}
+
+/* @media (max-width: 280px) {
+    .media-query1 {
+        padding-left: 0px;
+    }
+} */

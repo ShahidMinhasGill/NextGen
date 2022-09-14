@@ -1,0 +1,52 @@
+{
+    "navbar.1": "Cómo funciona",
+    "navbar.2": "Iniciar sesión",
+    "navbar.3":"Petición de retiro",
+    "navbar.4":"Conectar billetera",
+    "register": "Registrarse",
+    "Pioneer": "Pionero",
+    "daily": "Diaria",
+    "advanced": "Avanzado",
+    "hero": "héroe",
+    "loginAccount": "Inicie sesión en su cuenta",
+    "UsernameEmail": "Nombre de usuario/Correo electrónico",
+    "Password": "Contraseña",
+    "Forget": "Olvidaste tu contraseña?",
+    "DontHaveAccount": "to No tienes cuenta",
+    "RegisterHere": "Regístrate ahora",
+    "createAccount": "Crea una cuenta",
+    "fullName": "Nombre completo *",
+    "email": "Dirección de correo electrónico *",
+    "confirmPassword": "confirmar Contraseña",
+    "signUp": "Inscribirse",
+    "loginHere": "Entre aquí",
+    "Alreadyhaveaccount": "Ya registrada?",
+    "depositNow": "Depositar ahora",
+    "deposited": "Depositado",
+    "Balance": "Balance",
+    "increased": "Incremento",
+
+    "EnterEmail": "Ingrese correo electrónico",
+    "Confirm" : "Confirmar",
+    "NewPassword": "Nueva contraseña",
+    "Submit":"Enviar",
+    "withdrawRequest":"Petición de retiro",
+    "Request":"Solicitud",
+    "Amount":"Monto",
+    "Deposit":"Depósito",
+    "SelectCurrency":"Seleccione el tipo de moneda",
+
+
+
+    "Typefullname": "Escriba el nombre completo",
+    "Typeyouremailaddress": "escriba su direccion de correo electronico",
+    "TypePassword": "Escriba contraseña",
+    "TypeConfirmPassword":"Escriba Confirmar contraseña",
+    "TypeNewPassword":"Escriba una nueva contraseña",
+    "WhoWeAre":"Junta",
+    "Regulation":"Regulación",
+    "Introduction":"Introducción",
+    "AllRightsReserved":"Quienes somos"
+
+
+}

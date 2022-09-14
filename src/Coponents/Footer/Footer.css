@@ -1,0 +1,20 @@
+.border-top1 {
+    padding: 2em;
+}
+
+#footer {
+    /* position:static; */
+    /* left: 0; */
+    /* bottom: 0; */
+    /* -bottom: 30px; */
+    /* -top: 20px; */
+}
+
+/* @media(max-width: 480px){
+    #footer {
+        position:sticky;
+         left: 0;
+        bottom: 0;
+
+    }
+} */

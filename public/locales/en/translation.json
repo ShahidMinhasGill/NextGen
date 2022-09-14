@@ -1,0 +1,53 @@
+{
+    "navbar.1": "How It Works",
+    "navbar.2": "Log In",
+    "navbar.3":"Withdraw Request",
+    "navbar.4":"Connect Wallet",
+    "register": "Register",
+    "Pioneer": "Pioneer",
+    "daily": "Daily",
+    "advanced": "advanced",
+    "hero": "Hero",
+    "loginAccount": "Login Your Account",
+    "UsernameEmail": "Email/Username",
+    "Password": "Password",
+    "Forget": "Forget Password?",
+    "DontHaveAccount": "Don’t have account",
+    "createAccount": "Create An Account",
+    "fullName": "Full Name *",
+    "email": "Email Address *",
+    "confirmPassword": "Confirm Password",
+    "signUp": "Sign Up",
+    "loginHere": "Login Here",
+    "RegisterHere":"Register now",
+    "Alreadyhaveaccount": "Already Registered?",
+    "depositNow": "Deposit Now",
+    "deposited": "deposited",
+    "Balance": "Balance",
+    "increased": "increased",
+
+
+
+     "EnterEmail": "Enter Email",
+    "Confirm" : "Confirm",
+    "NewPassword": "New Password",
+    "Submit":"Submit",
+    "withdrawRequest":"Withdraw Request",
+    "Request":"Request",
+    "Amount":"Amount",
+    "Deposit":"Deposit",
+    "SelectCurrency":"Select Currency",
+
+
+
+
+    "Typefullname": "Type full name",
+    "Typeyouremailaddress": "Type your email address",
+    "TypePassword": "Type Password",
+    "TypeConfirmPassword":"Type Confirm Password",
+    "TypeNewPassword":"Type New Password",
+    "WhoWeAre":"Who we are",
+    "Regulation":"Regulation",
+    "Introduction":"Introduction",
+    "AllRightsReserved":"All rights reserved"
+}

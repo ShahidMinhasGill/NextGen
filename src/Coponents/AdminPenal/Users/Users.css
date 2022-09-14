@@ -1,0 +1,179 @@
+/* .th-style {
+    background: #4EC04F;
+    color: white;
+
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+td,
+th {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    font-size: 18px;
+}
+*/
+.th-style {
+    background: #4EC04F;
+    color: white;
+
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+input[type="text"].searchTerm {
+    width: 100%;
+    border: 3px solid #4EC04F;
+    border-right: none;
+    padding: 15px;
+    height: 23px;
+    border-radius: 0px 0 0 0px !important;
+    outline: none;
+    color: #9DBFAF;
+}
+
+.searchTerm:focus {
+    color: #000000;
+}
+
+.searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid #4EC04F;
+    background: #4EC04F;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn-size {
+    background-color: #4EC04F;
+    appearance: button;
+    background-color: #4EC04F;
+    border: solid transparent;
+    border-radius: 5px;
+    border-width: 0 0 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    line-height: 20px;
+
+    border-width: 0px 0px 0px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    transform: translateZ(0);
+    transition: filter .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+input[type="text"].admin-input {
+    padding: 15px;
+    font-size: 17px;
+    border: 3px solid #4EC04F;
+    background-color: #2D3252 !important;
+    color: white !important;
+    border-radius: 0px;
+    font-family: "Montserrat", sans-serif;
+
+
+}
+
+input[type="text"].searchTerm {
+    width: 100%;
+    border: 3px solid #4EC04F;
+    border-right: none;
+    padding: 15px;
+    height: 23px;
+    border-radius: 0px 0 0 0px !important;
+    outline: none;
+    color: #9DBFAF;
+}
+
+.searchTerm:focus {
+    color: #000000;
+}
+
+.searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid #4EC04F;
+    background: #4EC04F;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn-size {
+    background-color: #4EC04F;
+    appearance: button;
+    background-color: #4EC04F;
+    border: solid transparent;
+    border-radius: 5px;
+    border-width: 0 0 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    line-height: 20px;
+
+    border-width: 0px 0px 0px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    transform: translateZ(0);
+    transition: filter .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+input[type="text"].admin-input {
+    padding: 15px;
+    font-size: 17px;
+    border: 3px solid #4EC04F;
+    background-color: #2D3252 !important;
+    color: white !important;
+    border-radius: 0px;
+    font-family: "Montserrat", sans-serif;
+
+
+}
+
+.my-custom-scrollbar {
+    /* position: relative; */
+    height: 200px;
+    display: block;
+    width: 100%;
+    overflow-y: scroll !important;
+}
+
+.scroll-tab {
+    overflow-y: scroll;
+    height: 400px;
+}
+
+thead {
+    position: sticky;
+    top: 0;
+    border-bottom: 2px solid #ccc;
+
+}
